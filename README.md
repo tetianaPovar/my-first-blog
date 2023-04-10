@@ -2,22 +2,23 @@
 
 Trello is an online platform that allows organizing work and tasks between multiple team members. 
 
-This tutorial describes a process of creating a board, a list and a card in it, assigning items to a person and setting a due date along with the reminder for the card.
+This tutorial describes a process of creating a board, a list and a card in it, assigning items to a person and setting a due date along with the reminder for the items within a card.
 
-## Authenticating
-1. Go to [Trello Login Page](https://trello.com/login).
-2. Log in with your account information.
+## 1. Authenticating
+Go to https://trello.com/login.
 
-## Creating a board
-3. In the top menu, select the Create button, then the Create board option. 
-4. Select the background for the board from the list of available backgrounds.
-5. Enter a board title.
-6. In the *Visibility* field, select the Private (only board members can see and edit the board), Workspace (all members of your workspace can see and edit the board) or Public (anyone in the internet can see the board, only board members can edit).
+Log in with your account information.
+
+## 2. Creating a board
+In the top menu, select the **Create** button, then the **Create board** option. 
+Select the background for the board from the list of available backgrounds.
+Enter a board title.
+In the **Visibility** field, select the *Private* (only board members can see and edit the board), *Workspace* (all members of your workspace can see and edit the board) or *Public* (anyone in the internet can see the board, only board members can edit).
 
 ## Inviting a person to the board
-7. Click the Share button from the board menu on the right side. 
-8. Enter an email address or a user’s name to invite them to the board. Click their name to add them to the board.
-9. Click the Share button.
+Click the **Share** button from the board menu on the right side. 
+Enter an email address or a user’s name to invite them to the board. Click their name to add them to the board.
+Click the **Share** button.
 
 ## Adding a list
 10. In the board area, click the + Add a list button. 
