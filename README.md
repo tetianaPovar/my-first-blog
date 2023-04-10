@@ -5,7 +5,7 @@ Trello is an online platform that allows organizing work and tasks between multi
 This tutorial describes a process of creating a board, a list and a card in it, assigning items to a person and setting a due date along with the reminder for the card.
 
 ## Authenticating
-1. Go to [Trello Login Page] (https://trello.com/login).
+1. Go to [Trello Login Page](https://trello.com/login).
 2. Log in with your account information.
 
 ## Creating a board
